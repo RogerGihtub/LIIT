@@ -5,27 +5,28 @@ Lunar Incident Investigation Team
 
 An unofficial Carved from Brindlewood game, based on Brindlewood Bay by Jason Cordova.
 
-The pitch:  Investigate and solve murder mysteries on the Moon!  It's a low-crunch, low-prep game where the GM doesn't know the mystery's solution either.
+**The pitch:**  Investigate and solve murder mysteries on the Moon!  It's a low-crunch, low-prep game where the GM doesn't know the mystery's solution either.
   It is mostly-compatible with Brindlewood Bay, if you're already familiar with that game.
 
-Characters and Character Creation:
+## Characters and Character Creation:
 
 You can pick one of the pre-gens (TODO: create pregens) or create your own Investigator.
 
-Abilities
+### Abilities
+
 Abilities are the Investigator attributes that are applied to most die rolls in the
 game. They each have a modifier from -3 to +3. The abilities are: Vitality,
 Composure, Reason, Presence, and Sensitivity.
-Use VITALITY if the action involves strength, dexterity, endurance,
+* Use VITALITY if the action involves strength, dexterity, endurance,
 athleticism, or raw physicality.
-Use COMPOSURE if the action requires a steady hand, a calm
+* Use COMPOSURE if the action requires a steady hand, a calm
 disposition, or intense concentration; or if they are trying to avoid a fearbased
 reaction.
-Use REASON when studying books, researching a problem, examining
+* Use REASON when studying books, researching a problem, examining
 a crime scene, or otherwise engaging their mental faculty.
-Use PRESENCE when trying to charm someone, intimidate someone,
+* Use PRESENCE when trying to charm someone, intimidate someone,
 or capture someone's imagination.
-Use SENSITIVITY when there are strange, unnatural, or alien forces involved.
+* Use SENSITIVITY when there are strange, unnatural, or alien forces involved.
 
 Start with 0 in all 5 Abilities.
 
@@ -35,15 +36,14 @@ Optionally, add +1 to a different Ability, and subtract 1 from yet another diffe
 
 This is equivalent to choosing and assigning one of these sets of Ability scores: [1,0,0,0,0] or [1,1,0,0,-1]
 
-Special move:  Select one special move for your Investigator from the list.  (The list is further down; see **Special Moves** .)
+**Special move:**  Select one special move for your Investigator from the list.  (The list is further down; see **Special Moves** .)
 
-Signature gear: Describe a piece of equipment (or something less tangible) for your character.  Once per mystery,
+**Signature gear:** Describe a piece of equipment (or something less tangible) for your character.  Once per mystery,
 they can use it to gain Advantage on a roll.  Make this decision after you roll.  But only when the original roll
 didn't have Disadvantage, I guess.  Or I guess it could cancel it out for a reroll; needs consideration.
 
 
-*
-Rolling Dice
+## Rolling Dice
 In most cases, when you roll dice because a move instructs you to do so,
 you roll two six-sided dice, sum them, and then add the modifier from the
 relevant ability.  You then check the result against the text of the move. If a
@@ -51,17 +51,19 @@ move refers to a "hit," it means a result of 7+. If a move refers to a "miss," i
 means a result of 6-. Moves also frequently have success tiers: a miss, 7-9,
 10-11, and 12+.
 
-Advantage and Disadvantage
+## Advantage and Disadvantage
 When you have an advantage, you roll three dice, keep the two highest, sum
 them, and then add the modifier of the relevant ability.
 You will most often have an advantage because of the following:
-∙ A move gives you an advantage. ∙ The Maven is using an unmarked item from their Cozy Little Place in their
+* A move gives you an advantage.
+* The Maven is using an unmarked item from their Cozy Little Place in their
 action (see page 17).
+
 When you're at a disadvantage, you roll three dice, keep the two lowest, sum
 them, and then add the modifier of the relevant ability. You will most often
 be at a disadvantage because of the following:
-∙ A Condition negatively impacts your Maven's action (see Anatomy of a
-Character Sheet, Conditions, page 16). ∙ The Keeper believes it's appropriate under the current circumstances.
+* A Condition negatively impacts your Maven's action.
+* The Keeper believes it's appropriate under the current circumstances.
 
 If circumstances would cause you to both have an advantage and be at a
 disadvantage during an action, they cancel each other out and you roll as
@@ -70,30 +72,29 @@ can one outweigh the other. For example, if you have two Conditions, each
 of which would plausibly put you at a disadvantage, and one move that gives
 you an advantage, you would simply roll as normal, without advantage or
 disadvantage.
-*
 
-How to Do Things
+## How to Do Things
 
 The way to do things is by making Moves.  The standard Moves are:
 
-* Act:  the default way of doing just about anything (except finding clues -- see Investigate, below.)  State what you're trying to do, decide which Ability is applicable,
+**Act:**  the default way of doing just about anything (except finding clues -- see Investigate, below.)  State what you're trying to do, decide which Ability is applicable,
 and roll 2d6+Ability.  The results:
--6 or lower: You fail in what you were trying to do.  Things probably get worse.  If you were In Position, you're probably Out of Position -- the GM will let you know.
-7 or higher: If you were Out of Position, you're now In Position; and also:
-7-9: You basically succeed, but there still might be some adverse side-effects.
-10-11: You completely succeed.
-12 or higher: You succeed so well that you may get some additional benefit.
+* -6 or lower: You fail in what you were trying to do.  Things probably get worse.  If you were In Position, you're probably Out of Position -- the GM will let you know.
+* 7 or higher: If you were Out of Position, you're now In Position; and also:
+* 7-9: You basically succeed, but there still might be some adverse side-effects.
+* 10-11: You completely succeed.
+* 12 or higher: You succeed so well that you may get some additional benefit.
 
 condition:  When you are Out of Position, and do something that could bring you closer to solving the mystery, then...
 
-* React: this is a lot like Act, but instead of doing something, you're having something done to you.  Tell the GM how you are Reacting,
+**React:** this is a lot like Act, but instead of doing something, you're having something done to you.  Tell the GM how you are Reacting,
 decide which Ability is applicable,
 and roll 2d6+Ability.  The results:
--6 or lower: You react poorly, and suffer whatever calamnity is befalling you.  If you were In Position, you're probably Out of Position -- the GM will let you know.
-7 or higher:  Your Position does not change; and also:
-7-9: You basically succeed in avoiding harm, but there still might be some adverse side-effects.
-10-11: You completely succeed in avoiding harm.
-12 or higher: You succeed so well that you may get some benefit out of it.  If you were Out of Position, you're probably In Position now -- the GM will let you know.
+* -6 or lower: You react poorly, and suffer whatever calamnity is befalling you.  If you were In Position, you're probably Out of Position -- the GM will let you know.
+* 7 or higher:  Your Position does not change; and also:
+* 7-9: You basically succeed in avoiding harm, but there still might be some adverse side-effects.
+* 10-11: You completely succeed in avoiding harm.
+* 12 or higher: You succeed so well that you may get some benefit out of it.  If you were Out of Position, you're probably In Position now -- the GM will let you know.
 
 condition:  When something happens to you that could make it harder for you to solve the mystery, then...
 
@@ -101,30 +102,30 @@ condition:  When something happens to you that could make it harder for you to s
 
 (If you're coming from Brindlewood Bay, these two moves replace Day and Night moves.)
 
-* Investigate:  Important: a character must be In Position to attempt the Investigate move.
+**Investigate:**  Important: a character must be In Position to attempt the Investigate move.
 
 Condition:  When you are In position, and... When you search for a clue, conduct research, or otherwise gather information,
 describe how you're doing so and roll 2d6.  Note that this is always without any Ability modifier.  Special rule:  a character starts with Advantage on this roll,
 until they successfully find their first clue, for every mystery.
 The results:
-Always: You are now Out of Position.
--6 or lower: You don't find a clue, and the situation is probably getting worse.
-7-9: You find a clue, which the GM will give you.  There's probably still some sort of complication arising, though.
-10-11: You find the clue and there's no complications.
-12 or higher: You find the clue and also get an additional Deep Clue.
+* Always: You are now Out of Position.
+* -6 or lower: You don't find a clue, and the situation is probably getting worse.
+* 7-9: You find a clue, which the GM will give you.  There's probably still some sort of complication arising, though.
+* 10-11: You find the clue and there's no complications.
+* 12 or higher: You find the clue and also get an additional Deep Clue.
 
 (If you're coming from Brindlewood Bay, this is just Meddling, but with an extra step.  Also Void Clues are now Deep Clues.)
 
 
-Position
+## Position
 
 Characters in a scene can be either In Position or Out of Position:
 
-Out of Position: this is almost-always how characters start in a scene.  In their fictional positioning, they're not at a point where
+**Out of Position:** this is almost-always how characters start in a scene.  In their fictional positioning, they're not at a point where
 it's possible for them to find a precious clue.  They're prevented from accessing the body, or locked out of the computer system,
 or stumbling around the dark apartment.  They'll need to Act successfully to get In Position.
 
-In Position:  When a character has Acted successfully to improve their fictional positioning, they can then attempt to Investigate and find a clue.  They have put themselves into a spot where they can examine the body, or search through the computer files, or peer under
+**In Position:**  When a character has Acted successfully to improve their fictional positioning, they can then attempt to Investigate and find a clue.  They have put themselves into a spot where they can examine the body, or search through the computer files, or peer under
 the furniture with their flashlight.  But such positions are fleeting, and they either find the one clue that was present, or they are unable to find it at all.
 
 Your position should never be unclear -- you can always ask the GM if you're unsure.
@@ -132,12 +133,12 @@ Your position should never be unclear -- you can always ask the GM if you're uns
 (Mechanically, this is to stop the players from doing nothing but Investigate all the time, without resorting to pure GM fiat.)
 
 
-* Decompress:  One or more Investigators, who must be each be suffering at least one Condition, can take a break from the mystery.
+**Decompress:**  One or more Investigators, who must be each be suffering at least one Condition, can take a break from the mystery.
 Depending on the genre and tone of the game, this could be something wholesome like meditation, prayer,
 a long walk on the lunar surface, or something less wholesome, like consuming chemical substances,
 engaging in low-G snuggling, or whatnot.  The effects are:
--each Investigator clears an application Condition.
--each Investigator gains a Clue, which the GM will give them.
+* -each Investigator clears an application Condition.
+* -each Investigator gains a Clue, which the GM will give them.
 
 Condition:  (this needs to be written up... something like--) When you are suffering at least one Condition, and take a break from solving the mustery, then...
 
@@ -147,7 +148,7 @@ Condition:  (this needs to be written up... something like--) When you are suffe
 (If you're coming from Brindlewood Bay, the Gold Crown Move is gone entirely.)
 
 
-* The Strange Move:  This depends on just what Sensitivity and Strange are in your game.  For example, if there are sleeping alien
+**The Strange Move:**  This depends on just what Sensitivity and Strange are in your game.  For example, if there are sleeping alien
 intelligences deep beneath the lunar surface, then this move could be telepathically-contacting them, possibly through dreams.
 But every gaming group is going to approach this differently -- and some, perhaps, not at all.  Work together to define how
 this works, taking inspiration from the other mechanics in the game.
@@ -156,19 +157,18 @@ condition:  (This needs to be written...) When you do something beyond regular h
 
 (If you're coming from Brindlewood Bay, this replaces Occult Move.)
 
-
-* Theorize
+**Theorize** 
 When the Investigators have an open, freewheeling discussion about the solution
 to a mystery -- and reach a consensus --
 roll plus the number of Clues incorporated into the theory or otherwise
 explained away, minus the mystery's Complexity.
-On a 10+, it's the correct solution. The Keeper will present an opportunity to
+* On a 10+, it's the correct solution. The Keeper will present an opportunity to
 take down the culprit or otherwise save the day.
-On a 7-9, it's the correct solution, but the Keeper will either add an
+* On a 7-9, it's the correct solution, but the Keeper will either add an
 unwelcome complication to the solution itself, or present a complicated or
 dangerous opportunity to take down the culprit or save the day.
-On a 6-, the solution is incorrect, and the Keeper reacts.
-On a 12+, a person involved in the dark conspiracy of Brindlewood Bay also
+* On a 6-, the solution is incorrect, and the Keeper reacts.
+* On a 12+, a person involved in the dark conspiracy of Brindlewood Bay also
 reveals themself to the Mavens.
 Note: It doesn't matter who rolls Theorize when the time comes. Additionally,
 Theorize cannot be taken with advantage or disadvantage, nor is it subject to
@@ -183,22 +183,22 @@ where the protagonists are puzzling aloud about who might have done it.
 as I doubt there's any need for it.)
 
 
-* Investigator Moves:  Your Investigator may have an active Investigator Move that they can take; it'll be
+*Investigator Moves:**  Your Investigator may have an active Investigator Move that they can take; it'll be
 described on your character sheet.
 
 
-Gameplay Loop:
+## Gameplay Loop:
 
 The usual gameplay process is:
 
 * The Investigators are presented with a mystery.
 
 * The Investigators attend various scenes:
--they arrive Out of Position
--they Act and React within the scene, until they are able to get In Position
--they possibly suffer Consequences
--once In Position, they can Investigate and try to get a clue
--when they have the clues (usually 1 per Investigator in the scene), or if they give up, then they proceed to the next scene
+* -they arrive Out of Position
+* -they Act and React within the scene, until they are able to get In Position
+* -they possibly suffer Consequences
+* -once In Position, they can Investigate and try to get a clue
+* -when they have the clues (usually 1 per Investigator in the scene), or if they give up, then they proceed to the next scene
 
 * Between scenes, some Investigators may Decompress.
 
@@ -208,14 +208,17 @@ The usual gameplay process is:
 * After the mystery is solved, XP is awarded and spent.
 
 
-End of Session
+## End of Session
+
 These questions represent roleplaying goals for the session. You can have
 three questions marked, and the first question on the list is always marked.
 For each marked question you answer "yes" to at the end of the session,
 mark an XP. At the beginning of a new session, you can unmark your two
 elective options and mark two different ones, or leave either or both the
 same.
-XP Track
+
+## XP Track
+
 When you mark all five boxes on the XP track, erase them whenever you
 wish and mark an advancement (see Advancements, below). There are
 two ways to mark the XP track: 1) by answering "yes" to an End of Session
@@ -246,7 +249,7 @@ that you can use once per mystery.
 * Weirding Ways:  Once per mystery, reroll a failed roll, using Sensitivity instead of the original Ability.
 
 
-GM Advice
+## GM Advice
 
 Almost all the advice in Brindlewood Bay applies.
 
@@ -275,20 +278,20 @@ doesn't have a character in a given scene could do it.  Yes, the first and last 
 awkward, so maybe fall back to the 'real' GM in those cases, but more generally... I think it could work.
 
 
-Things to do:
-∙ Separate the Investigators
-∙ Kill a Suspect
-∙ Inflict a Condition
-∙ Put an Investigator in danger
-∙ Don't do this: Show an Investigator being killed
-∙ Remove an item (gear) from their Office or an Investigator
-∙ Have an official show up
-∙ Reveal a Deep Clue
-∙ Don't do this either: Cut to Commercial
-∙ Call for a React roll
+**Things to do:**
+* ∙ Separate the Investigators
+* ∙ Kill a Suspect
+* ∙ Inflict a Condition
+* ∙ Put an Investigator in danger
+* ∙ Don't do this: Show an Investigator being killed
+* ∙ Remove an item (gear) from their Office or an Investigator
+* ∙ Have an official show up
+* ∙ Reveal a Deep Clue
+* ∙ Don't do this either: Cut to Commercial
+* ∙ Call for a React roll
 
 
-A Bit of Lore:
+## A Bit of Lore:
 
 I'm still assembling the whole lunar base thing and its history.  I think the deal is that it was a big
 multi-national quasi-co-operative thing right from the beginning.  Then things soured a bit on that front,
@@ -297,7 +300,7 @@ forces.  But everyone still has a certain level of respect in trust for the old 
 inspection group, the Lunar Incident Investigation Team, so they end up with some tricky cases.
 
 
-The following are sample Conditions divided by "type."
+## The following are sample Conditions divided by "type."
 Emotional/Psychological
 Unnerved, Scared, Shocked, Disturbed, Angry, Irritated, Lovestruck, Saddened,
 Melancholy, Embittered, Jealous, Envious, Isolated, Obsessed with
@@ -317,7 +320,7 @@ Glowing Eyes
 
 
 (Unchanged because it is too excellent)
-SESSION ONE
+## SESSION ONE
 Session One
 The following is a step-by-step guide to running your first session of BRINDLEWOOD
 BAY. The times listed with some of the steps are estimates-don't fret
@@ -522,9 +525,9 @@ session. In particular, they should read through the section called The Crown
 of the Queen and think about what that means for their Maven.
 
 
-A Sample Mystery:
+## A Sample Mystery:
 
-Dad Vacc'ed
+### Dad Vacc'ed
 Complexity 6
 Paint the Scene: The Investigators are in the offices of the Lunar Incident Investigation Team.
 In walks Chief Inspector Lyman Maple, head of the American police force.  He
