@@ -77,7 +77,7 @@ disadvantage.
 
 The way to do things is by making Moves.  The standard Moves are:
 
-**Act:**  the default way of doing just about anything (except finding clues -- see Investigate, below.)  State what you're trying to do, decide which Ability is applicable,
+**Act:**  the default way of doing just about anything (except finding clues -- see Investigate, below.)  When you are Out of Position, and do something that could bring you closer to solving the mystery, then state what you're trying to do, decide which Ability is applicable,
 and roll 2d6+Ability.  The results:
 * -6 or lower: You fail in what you were trying to do.  Things probably get worse.  If you were In Position, you're probably Out of Position -- the GM will let you know.
 * 7 or higher: If you were Out of Position, you're now In Position; and also:
@@ -85,9 +85,7 @@ and roll 2d6+Ability.  The results:
 * 10-11: You completely succeed.
 * 12 or higher: You succeed so well that you may get some additional benefit.
 
-condition:  When you are Out of Position, and do something that could bring you closer to solving the mystery, then...
-
-**React:** this is a lot like Act, but instead of doing something, you're having something done to you.  Tell the GM how you are Reacting,
+**React:** this is a lot like Act, but instead of doing something, you're having something done to you.  When something happens to you that could make it harder for you to solve the mystery, then tell the GM how you are Reacting,
 decide which Ability is applicable,
 and roll 2d6+Ability.  The results:
 * -6 or lower: You react poorly, and suffer whatever calamnity is befalling you.  If you were In Position, you're probably Out of Position -- the GM will let you know.
@@ -96,15 +94,11 @@ and roll 2d6+Ability.  The results:
 * 10-11: You completely succeed in avoiding harm.
 * 12 or higher: You succeed so well that you may get some benefit out of it.  If you were Out of Position, you're probably In Position now -- the GM will let you know.
 
-condition:  When something happens to you that could make it harder for you to solve the mystery, then...
-
 (Why is there both Act and React, when they're so similar?  It's mostly as a reminder to the GM to make the characters React to some thing; otherwise, it can be easy to forget about this.)
 
 (If you're coming from Brindlewood Bay, these two moves replace Day and Night moves.)
 
-**Investigate:**  Important: a character must be In Position to attempt the Investigate move.
-
-Condition:  When you are In position, and... When you search for a clue, conduct research, or otherwise gather information,
+**Investigate:**  When you are In Position, and you search for a clue, conduct research, or otherwise gather information,
 describe how you're doing so and roll 2d6.  Note that this is always without any Ability modifier.  Special rule:  a character starts with Advantage on this roll,
 until they successfully find their first clue, for every mystery.
 The results:
@@ -117,9 +111,9 @@ The results:
 (If you're coming from Brindlewood Bay, this is just Meddling, but with an extra step.  Also Void Clues are now Deep Clues.)
 
 
-## Position
+## Position (an aside)
 
-Characters in a scene can be either In Position or Out of Position:
+Investigators in a scene are either In Position or Out of Position:
 
 **Out of Position:** this is almost-always how characters start in a scene.  In their fictional positioning, they're not at a point where
 it's possible for them to find a precious clue.  They're prevented from accessing the body, or locked out of the computer system,
@@ -130,7 +124,7 @@ the furniture with their flashlight.  But such positions are fleeting, and they 
 
 Your position should never be unclear -- you can always ask the GM if you're unsure.
 
-(Mechanically, this is to stop the players from doing nothing but Investigate all the time, without resorting to pure GM fiat.)
+(Mechanically, this is to stop the players from doing nothing but Investigate all the time, without resorting to pure GM fiat.  Was this ever a real problem?  I'm not sure.)
 
 
 **Decompress:**  One or more Investigators, who must be each be suffering at least one Condition, can take a break from the mystery.
@@ -140,7 +134,7 @@ engaging in low-G snuggling, or whatnot.  The effects are:
 * -each Investigator clears an application Condition.
 * -each Investigator gains a Clue, which the GM will give them.
 
-Condition:  (this needs to be written up... something like--) When you are suffering at least one Condition, and take a break from solving the mustery, then...
+Condition:  (this needs to be written up... something like--) When you are suffering at least one Condition, and take a break from solving the mystery, then...
 
 (If you're coming from Brindlewood Bay, this is the Cozy move, somewhat simplified.)
 
@@ -168,23 +162,22 @@ take down the culprit or otherwise save the day.
 unwelcome complication to the solution itself, or present a complicated or
 dangerous opportunity to take down the culprit or save the day.
 * On a 6-, the solution is incorrect, and the Keeper reacts.
-* On a 12+, a person involved in the dark conspiracy of Brindlewood Bay also
-reveals themself to the Mavens.
+* On a 12+, a person involved in the dark conspiracy of also
+reveals themself to the Investigators.
 Note: It doesn't matter who rolls Theorize when the time comes. Additionally,
 Theorize cannot be taken with advantage or disadvantage, nor is it subject to
-the effects of other moves. The success tier can be increased by putting on a
-Crown, but only if every Maven does so.
-There are no canonical solutions to Brindlewood Bay mysteries-the solution
+the effects of other moves.
+
+There are no canonical solutions to the mysteries-the solution
 is whatever the players come up with at the table, based on the Clues
-at hand. Theorize is meant to simulate those great scenes in mystery stories
-where the protagonists are puzzling aloud about who might have done it.
+at hand. 
 
 (If you're coming from Brindlewood Bay, Theorize is the same.  I've removed the minimum Clue requirements
 as I doubt there's any need for it.)
 
 
 *Investigator Moves:**  Your Investigator may have an active Investigator Move that they can take; it'll be
-described on your character sheet.
+described on your character sheet.  (These are listed later.)
 
 
 ## Gameplay Loop:
@@ -208,7 +201,7 @@ The usual gameplay process is:
 * After the mystery is solved, XP is awarded and spent.
 
 
-## End of Session
+## End of Session (todo: needs work.)
 
 These questions represent roleplaying goals for the session. You can have
 three questions marked, and the first question on the list is always marked.
@@ -217,7 +210,7 @@ mark an XP. At the beginning of a new session, you can unmark your two
 elective options and mark two different ones, or leave either or both the
 same.
 
-## XP Track
+## XP Track (todo: needs more work.)
 
 When you mark all five boxes on the XP track, erase them whenever you
 wish and mark an advancement (see Advancements, below). There are
@@ -301,17 +294,23 @@ inspection group, the Lunar Incident Investigation Team, so they end up with som
 
 
 ## The following are sample Conditions divided by "type."
-Emotional/Psychological
+
+**Emotional/Psychological**
+
 Unnerved, Scared, Shocked, Disturbed, Angry, Irritated, Lovestruck, Saddened,
 Melancholy, Embittered, Jealous, Envious, Isolated, Obsessed with
 [person or thing], Furious with [person or thing], Sad about [person or thing],
 Volatile Emotions, Desire to Lash Out, Gloomy Disposition, Shaken to the Core
-Physical
+
+**Physical**
+
 Sprained Ankle, Concussion, Smoke Inhalation, Festering Wound, Claw
 Marks, Bruised Ribs, Clumps of Hair Torn Out, Scratched Face, Smashed
 Thumb, Nearly Drowned, Chilled to the Bone, Intoxicated, High, Exhausted,
 Drained, Severed Hand, Limp, Severe Vertigo
-Supernatural/Alien/Weird
+
+**Supernatural/Alien/Weird**
+
 Cursed, Hexed, Haunted, Something is Following Me, Seeing Unnatural
 Shapes, Magically Blinded, Ensorcelled, Blackened Veins, Strange Reflection,
 Rats are Whispering to Me, Sensitive to Sunlight, All Water Tastes Foul, I See
@@ -321,43 +320,53 @@ Glowing Eyes
 
 (Unchanged because it is too excellent)
 ## SESSION ONE
-Session One
+
 The following is a step-by-step guide to running your first session of BRINDLEWOOD
 BAY. The times listed with some of the steps are estimates-don't fret
 if you're taking longer to complete each step. Text in italics is meant to be
 read aloud to the players.
+
 Step One: Read the Text
+
 As the Keeper, you should read the rulebook in its entirety. Skim the other
 materials so you have a basic familiarity with them. Importantly, you should
 decide which set of Maven Moves you will make available to the group and
 which mystery you will start with (we recommend Dad Overboard). Consider
 watching an actual play; the author of the game has videos on his YouTube
 channel showing how the game works.
+
 Step Two: Gather Play Materials
+
 You will need:
 ∙ At least three six-sided dice, but more is better. ∙ Index cards and a marker to make character name tents,
 as well as to track Clues and Suspects. ∙ A pencil for each participant. ∙ Enough character sheets for each player to have one. ∙ At least one copy of the reference sheet, but one per player is better. ∙ At least one copy of your chosen Maven Moves sheet. ∙ A mystery sheet. ∙ The Dark Conspiracy sheet.
+
 Step Three: Gather Participants
+
 BRINDLEWOOD BAY works best with one Keeper and three players. One Keeper and
 two players and one Keeper and four players also work well. Avoid playing
 BRINDLEWOOD BAY with five or more players.
+
 Step Four: Player & Keeper Introductions (2 min.)
+
 Going around the table, each participant should state their name, their
 pronouns, and anything else the group might find interesting about them.
 You can skip this step if you're playing with a group of friends who know
 each other well.
-SESSION ONE
-156
+
 Step Five: CATS (3 min.)
+
 CATS is an acronym that stands for Concept, Aim, Tone, and Subject Matter.
 It is usually presented by the Keeper and helps to establish some basic
 expectations for how the game is going to proceed. It's also a low-stakes
 way for the Keeper to get accustomed to being in the spotlight. Read the
 following aloud:
+
 Now I'm going to do CATS. CATS is an acronym that stands for Concept, Aim,
 Tone, and Subject Matter. The purpose of CATS is to establish some basic
 expectations for what this game is about and what we're going to be doing
 during this first session.
+
 Concept: BRINDLEWOOD BAY is a roleplaying game about a group of elderly
 women-members of the local Murder Mavens mystery book club-who
 frequently find themselves investigating (and solving!) actual murder mysteries.
@@ -367,44 +376,51 @@ the dark, monstrous aspect of the goddess Persephone will come to vex them.
 The game is directly inspired by the television show Murder, She Wrote, but
 also takes inspiration from the cosmic horror genre, mystery books, "cozy"
 crime dramas, and American TV shows from the '70s, '80s, and '90s.
+
 Aim: The aim of the characters in the story is to keep their community safe
 by investigating the murders taking place there. Our aim as players is to
 learn more about these characters, as well as to paint a vivid picture of the
 town of Brindlewood Bay, a responsibility we all share. The aims for today's
 session are to create and introduce our characters, learn the basics of how
 the game works by playing it, and then have a debrief period at the end.
+
 Tone: The tone of this game bounces between the cozy and the creepy. Most
 of the time, it will be fairly lighthearted, but occasionally it will get very
 dark and menacing. Some kitschy, campy humor is permissible here-and
 very much in keeping with some of the game's inspirations-but above all,
 your characters should take everything they do very seriously, even if we're
 having a bit of a laugh from time to time.
+
 Subject Matter: Murder (of all varieties), threats to animals and children,
 ritual magic, human sacrifice, and other dark subject matter come up in this
 game from time to time. We'll talk about safety tools in a moment, but in the
 interest of setting expectations right now, you should know that while the
 game is generally lighthearted, some intense subject matter can come up.
-157
-SESSION ONE
+
 Step Six: Safety Tools (3 min.)
+
 You can use whichever safety tools your group is most comfortable with. We
 recommend you use the Open Door Policy, the X-card, and Lines & Veils.
 You can Google each of those for more information (add "safety tools" and
 "TTRPG" to your query). The scripted portion of this step assumes you are
 using the three suggested tools.
+
 No game is more important than the people playing it. We're going to aim
 to tell the best story we can, but we're going to do it in a way that respects
 everyone's boundaries of safety and consent. We'll be using three safety tools
 today: the Open Door Policy, the X-card, and Lines & Veils.
+
 The Open Door Policy is very simple: you can leave the game for any reason
 and you don't have to explain yourself. Just let us know you have to go; no
 one here will ask any questions about it.
+
 At this point, you should point to the X-card.
 The X-card is here in case something in the game makes you feel uncomfortable
 in an un-fun way. Just tap or hold up the X-card and we will stop play
 in order to change whatever just happened in the game. As the Keeper, I may
 ask for clarification on what is being X-carded, but I will never ask why. We'll
 resume play once the change is made.
+
 Finally, we'll be using Lines & Veils. Lines are things that we are not going
 to have in the game, period. Veils are things that we're ok with being in the
 game but we prefer not to roleplay them, or we simply want to keep them
@@ -418,9 +434,9 @@ to the group anonymously when we're back together.
 Here you should tell the group what your Lines & Veils are. The author of
 this game, for example, always lists "sexual violence" as a Line and "torture"
 as a Veil.
-SESSION ONE
-158
+
 Step Seven: Character Creation (15 min.)
+
 Before we begin character creation, I want to tell you a little more about the
 things these women have in common. First of all, they each had a life before
 Brindlewood Bay-they had a career and a partner who is now deceased.
@@ -428,9 +444,11 @@ They may or may not have children (pets count). You don't need to dwell on
 their backstory too much yet-we'll discover more about them as we play
 the game-but start to think about these basic details as you create your
 character.
+
 At this point, pass out character sheets and have everyone make their
 Maven. Players can do these steps as they wish, but should stop when they
 get to the section of their character sheet called A Cozy Little Place.
+
 1. Circle a name
 2. Circle a style
 3. Circle a Cozy Activity (no two Mavens can have the same Cozy Activity).
@@ -441,6 +459,7 @@ Step Eight: Character Introductions and A Cozy Little Place
 Now that you've all made your characters, let's introduce them. Going around
 the table, everyone please introduce your Murder Maven by name, style, Cozy
 Activity, and Maven move.
+
 After everyone does this, continue with:
 Now we're going to go around again and have each player describe three key
 aspects of their Maven's backstory:
@@ -451,13 +470,15 @@ After you tell us this information, the rest of us are going to name one object
 that can be found in your Maven's home in Brindlewood Bay. You'll note these
 down in the section of your character sheet called A Cozy Little Place, revising
 them as you wish.
-159
-SESSION ONE
+
 Step Nine: Break (10 min.)
+
 Now that we've met the characters, we're ready to play! Let's take a ten-minute
 break; I'll introduce the first mystery when we return. Also: don't forget
 to find me and tell me your Lines & Veils!
+
 Step Ten: Before We Begin (2 min.)
+
 Before we begin, let me tell you some new Lines & Veils.
 Communicate any Lines & Veils that were told to you on break.
 Also, I want to tell you that even though this is a game set in a particular
@@ -467,21 +488,27 @@ going to get some things wrong every now and then, and that's ok. I'd also
 like to point out that in the world of BRINDLEWOOD BAY things like race, nationality,
 gender, ethnicity, sexuality, disability, and neurodivergence are not a social
 barrier.
+
 Step Eleven: Beginning of Session (2 min.)
+
 Each player should now mark two End of Session questions in addition to
 the first, which is always marked. If any characters have Maven moves that
 fire off at the beginning of a session, resolve them now.
+
 Step Twelve: Cozy Vignettes (2 min.)
+
 Each player narrates a short vignette showing their Maven enjoying her life
 in Brindlewood Bay. These scenes should be light and breezy or warm and
 cozy; they should show the Maven enjoying her hobbies, helping with a
 community project, or working around her home.
+
 Step Thirteen: Present the Mystery
+
 Here you should tell the players the name of the mystery and its Complexity.
 Then, guide them through the presentation of the mystery.
-SESSION ONE
-160
+
 Step Fourteen: Investigation (90 min.)
+
 At this point you'll begin regular play following the guidelines and advice
 you were given earlier in this book. Don't worry about getting things wrong.
 You're probably going to forget Conditions, Cut to Commercial, and A Cozy
@@ -492,7 +519,9 @@ what the ability scores mean, advantage and disadvantage, and so forth.
 Try to finish a mystery if you can, but it's ok if not. If you have to end in the
 middle of a mystery, try to end with a cliffhanger.
 Take a five minute break at some point.
+
 Step Fifteen: Crown Scenes (5 min.)
+
 There are two special sections on the character sheet: The Crown of the
 Queen and The Crown of the Void. When text from those sections is marked
 during play, the player of the Maven in question must do as the text instructs.
@@ -501,12 +530,14 @@ narrate such scenes whenever they wish, but must do so before the end of
 the session. When there are about fifteen minutes remaining in the scheduled
 play time, the Keeper should wrap up whatever scene is taking place
 and then call for Crown scenes that have not yet taken place.
+
 Step Sixteen: End of Session Questions (2 min.)
+
 Go around the table and have each player read aloud their marked End of
 Session questions. They mark 1 XP for each question they can answer "yes" to.
-161
-SESSION ONE
+
 Step Seventeen: Debrief (5 min.)
+
 Have a short debrief period at the end of the session. You can use any
 debrief technique you wish; we prefer a technique called Stars & Wishes
 because it is positive and uplifting.
@@ -516,10 +547,14 @@ from the gameplay-anything you liked can be a Star. Wishes are things you
 hope to see next time: exploring a part of the game we didn't get to today,
 following up with a character about something, having a scene with a certain
 character, and so forth.
+
 Step Eighteen: The Midwives Scene (if applicable; 1 min.)
+
 This is when you will narrate the stinger scene if you unlocked Layer One of
 the Dark Conspiracy.
+
 Step Nineteen: Homework
+
 Encourage the players to review their character sheet before the next
 session. In particular, they should read through the section called The Crown
 of the Queen and think about what that means for their Maven.
@@ -528,8 +563,10 @@ of the Queen and think about what that means for their Maven.
 ## A Sample Mystery:
 
 ### Dad Vacc'ed
+
 Complexity 6
-Paint the Scene: The Investigators are in the offices of the Lunar Incident Investigation Team.
+
+**Paint the Scene:** The Investigators are in the offices of the Lunar Incident Investigation Team.
 In walks Chief Inspector Lyman Maple, head of the American police force.  He
 tells them that earlier today a wealthy American Earther, Alberr Kross, was found dead.
 He and his extended family were on a lunar vacation, and were on a lunar rover sight-seeing trip,
@@ -541,9 +578,9 @@ much longer.  The body was recovered and is being held at a small Russian mining
   It has the potential of becoming a huge political mess involving Earth, the American side of the
 base, the Russians, and a very wealthy family.  Maple hopes that the LIIT can investigate.
 
-Moments (TODO)
+**Moments (TODO)**
 
-Suspects:
+**Suspects:**
 
 Chief Inspector Lyman Maple, Lunar American.  Joe Don Baker's American cop Jeronimo from Final Justice.
 Quote: "I'm getting to old for this nonsense, I tell you what."
@@ -569,7 +606,8 @@ Quote: "That fool has brought great dishonour to my tourism business.  I need to
 Olga Skolenski, mining foreman, Lunar Russian.  Scarlett Johansen but Russian.
 Quote: "Not even American can breathe hard vacuum."
 
-Locations:
+**Locations:**
+
 The Russian mining outpost
   Brutalist lunar concrete.  Apparent warning signs in Russian.  The lingering scent of tobacco smoke.
 Flickering overhead lights.
