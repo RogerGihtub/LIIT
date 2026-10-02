@@ -79,7 +79,7 @@ The way to do things is by making Moves.  The standard Moves are:
 
 **Act:**  the default way of doing just about anything (except finding clues -- see Investigate, below.)  When you are Out of Position, and do something that could bring you closer to solving the mystery, then state what you're trying to do, decide which Ability is applicable,
 and roll 2d6+Ability.  The results:
-* -6 or lower: You fail in what you were trying to do.  Things probably get worse.  If you were In Position, you're probably Out of Position -- the GM will let you know.
+* 6 or lower: You fail in what you were trying to do.  Things probably get worse.  If you were In Position, you're probably Out of Position -- the GM will let you know.
 * 7 or higher: If you were Out of Position, you're now In Position; and also:
 * 7-9: You basically succeed, but there still might be some adverse side-effects.
 * 10-11: You completely succeed.
@@ -88,7 +88,7 @@ and roll 2d6+Ability.  The results:
 **React:** this is a lot like Act, but instead of doing something, you're having something done to you.  When something happens to you that could make it harder for you to solve the mystery, then tell the GM how you are Reacting,
 decide which Ability is applicable,
 and roll 2d6+Ability.  The results:
-* -6 or lower: You react poorly, and suffer whatever calamnity is befalling you.  If you were In Position, you're probably Out of Position -- the GM will let you know.
+* 6 or lower: You react poorly, and suffer whatever calamnity is befalling you.  If you were In Position, you're probably Out of Position -- the GM will let you know.
 * 7 or higher:  Your Position does not change; and also:
 * 7-9: You basically succeed in avoiding harm, but there still might be some adverse side-effects.
 * 10-11: You completely succeed in avoiding harm.
@@ -103,7 +103,7 @@ describe how you're doing so and roll 2d6.  Note that this is always without any
 until they successfully find their first clue, for every mystery.
 The results:
 * Always: You are now Out of Position.
-* -6 or lower: You don't find a clue, and the situation is probably getting worse.
+* 6 or lower: You don't find a clue, and the situation is probably getting worse.
 * 7-9: You find a clue, which the GM will give you.  There's probably still some sort of complication arising, though.
 * 10-11: You find the clue and there's no complications.
 * 12 or higher: You find the clue and also get an additional Deep Clue.
@@ -126,6 +126,7 @@ Your position should never be unclear -- you can always ask the GM if you're uns
 
 (Mechanically, this is to stop the players from doing nothing but Investigate all the time, without resorting to pure GM fiat.  Was this ever a real problem?  I'm not sure.)
 
+----
 
 **Decompress:**  One or more Investigators, who must be each be suffering at least one Condition, can take a break from the mystery.
 Depending on the genre and tone of the game, this could be something wholesome like meditation, prayer,
